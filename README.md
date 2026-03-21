@@ -3,7 +3,7 @@
 Telegram-style circular reveal theme transitions for React Native. Built as an Expo Module with native iOS (Swift) and Android (Kotlin) implementations.
 
 <div align="center">
-  <video src="https://github.com/JuanRdBO/expo-circular-reveal/releases/download/v0.1.0/demo.mov" width="300" autoplay loop muted playsinline></video>
+  <img src="./demo.gif" width="300" alt="Circular reveal theme transition demo" />
 </div>
 
 ## How it works
