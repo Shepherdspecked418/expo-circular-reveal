@@ -6,10 +6,16 @@
 
 Telegram-style circular reveal theme transitions for React Native. Built as an Expo Module with native iOS (Swift) and Android (Kotlin) implementations.
 
-<div align="center">
-  <img src="./demo.gif" width="250" alt="Circular reveal theme transition — iOS" />
-  <img src="./demo-android.gif" width="250" alt="Circular reveal theme transition — Android" />
-</div>
+<table align="center">
+  <tr>
+    <th>iOS</th>
+    <th>Android</th>
+  </tr>
+  <tr>
+    <td><img src="./demo.gif" width="280" alt="iOS demo" /></td>
+    <td><img src="./demo-android.gif" width="280" alt="Android demo" /></td>
+  </tr>
+</table>
 
 ## How it works
 
